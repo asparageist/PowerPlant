@@ -39,6 +39,7 @@ const drawPlant = (state) => {
   return ;
 }
 
+// {buttonFactory("light"), buttonFactory("water"), buttonFactory("food")}.map(stateControl)
 
 const appendChild = (state) => {
   return (prop) => {
